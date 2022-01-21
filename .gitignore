@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.history
+back/node_module
+fcmtest/node_module
