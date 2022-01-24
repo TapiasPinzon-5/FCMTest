@@ -57,11 +57,6 @@ export const onMessageListener = () =>
     });
   });
 
-export const prueba = () => {
-  
-  console.log('prueba');
-}
-
 
 
 

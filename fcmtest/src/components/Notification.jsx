@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { toast, ToastContainer } from "react-toastify";
 import { onMessageListener, requestForToken } from "../firebase";
+import 'react-toastify/dist/ReactToastify.css';
 
 const Notification = () => {
 
